@@ -1,0 +1,5 @@
+*.oclbin
+*.o
+oclvanitygen
+oclvanityminer
+keyconv
